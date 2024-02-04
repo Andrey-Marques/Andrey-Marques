@@ -12,7 +12,6 @@ Olá! Eu sou o Andrey😁
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   
@@ -21,6 +20,6 @@ Olá! Eu sou o Andrey😁
   <a href = "mailto:andreymarques958@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  
-  ![Snake animation](https://github.com/Andrey-Marques/Andrey-Marques/blob/output/github-contribution-grid-snake.svg)
+  [Snake animation](https://github.com/Andrey-Marques/Andrey-Marques/blob/output/github-contribution-grid-snake.svg)
 
 </div>
