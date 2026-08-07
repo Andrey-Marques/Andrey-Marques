@@ -1,25 +1,59 @@
-Olá! Eu sou o Andrey
-<div>
-  <a href="https://github.com/Andrey-Marques">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrey-Marques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Marques&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
- 
-<div> 
-  
-  <a href="https://www.instagram.com/andrr_marques/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-  <a href = "mailto:andreymarques958@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
- 
-  [Snake animation](https://github.com/Andrey-Marques/Andrey-Marques/blob/output/github-contribution-grid-snake.svg)
+# Olá!  Eu sou o Andrey Marques
 
-</div>
+🎓 Estudante de **Bacharelado em Sistemas de Informação** na **Universidade Federal do Acre (UFAC)**.
+
+💻 Desenvolvedor Full Stack em formação, com experiência no desenvolvimento de aplicações web utilizando **Angular**, **Django REST Framework** e **Spring Boot**.
+
+
+
+## 💻 Tecnologias
+
+### Linguagens
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,c,html,css,mysql,sqlite" />
+</p>
+
+### Frameworks e Bibliotecas
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,django,spring,bootstrap" />
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
+</p>
+
+---
+
+## 📫 Contato
+
+<p>
+
+<a href="mailto:andreymarques958@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/andrey-marques-79723633b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/andrr_marques/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📈 Atividade
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrey-Marques&theme=tokyonight"/>
+
+</p>
+
+---
